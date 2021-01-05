@@ -21,3 +21,21 @@ background-color: rgb(210,210,210); width: 400px; margin-right: 30px;}
 text-transform: uppercase; cursor: pointer; font-size: 25px; color: white; background-color: #033C50;}
 .header02-form form label {display: block; margin-top: 40px; margin-bottom: -3px;}
 .header02-form form label:first-child {margin-top: 0;}
+/*==========CONTENT==========*/
+.seta {display: block; margin: 0 auto; margin-top: -31px;}
+.content {width: 1025px; margin: 0 auto;}
+.content01 {background-color: #29526d; margin-top: -31px; padding: 71px 0 55px;}
+.content01 h2, .content01 p {text-align: center; color: white;}
+.content01 h2 {font-weight: normal; font-size: 22px;}
+.content01 p {margin-top: 15px; font-weight: normal; font-size: 18px;}
+.content02, .content03, .content04, .content05 {display: flex;}
+.content02 img, .content03 img, .content04 img, .content05 img {width: 615px;}
+.content02 p, .content03 p {align-self: center; background-color: #4683ab; color: white; line-height: 1.4;
+padding: 101px 40px;}
+.content04 p, .content05 p {align-self: center; background-color: #4683ab; color: white; line-height: 1.4;
+padding: 134px 40px;}
+/*==========FOOTER==========*/
+.footer {width: 1025px; margin: 0 auto; background-color: #dcdcdc; padding: 5px 0 10px;}
+.footer img {display: block; margin: 0 auto; transform: scale(.56);}
+
+
